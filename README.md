@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shiraikuroko123
-- 👀 Interested in embedded AI and LLM
-- 🌱 Currently learning VLA and AI infra
+- 👀 Interested in embedded AI and Quant
+- 🌱 Currently learning VLA 
 
 
 <!---
